@@ -1,0 +1,27 @@
+{
+  "name": "fix-layer-scroll",
+  "description": "解决移动端弹框时的滚动穿透",
+  "version": "0.0.2",
+  "author": "unique_ritchie@163.com",
+  "license": "MIT",
+  "private": false,
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rain-js/fix-scroll.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-directive",
+    "vue-fix-scroll"
+  ],
+  "dependencies": {
+    "vue": "^2.5.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
