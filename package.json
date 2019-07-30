@@ -1,7 +1,7 @@
 {
   "name": "fix-layer-scroll",
   "description": "解决移动端弹框时的滚动穿透",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "unique_ritchie@163.com",
   "license": "MIT",
   "private": false,
