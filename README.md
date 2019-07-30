@@ -19,8 +19,8 @@ Vue.use(fixScroll)
 
 template
 ``` bash
-<div class="dialog-mask" v-fixscroll>
-    <div class="dialog-wrapper">
-    </div>
+<div class="dialog-mask" v-if="visible" v-fixscroll>
+  <div class="dialog-wrapper">
+  </div>
 </div>
 ```
